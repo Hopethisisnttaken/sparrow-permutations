@@ -1,5 +1,6 @@
 ####################
 #for the whole df
+# setwd before running the code
 
 library(readxl)
 library(igraph)
