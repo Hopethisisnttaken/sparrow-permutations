@@ -5,7 +5,7 @@ library(readxl)
 library(igraph)
 library(MASS)
 
-sparrow_df <- read_excel('sample_df 2.xlsx')
+sparrow_df <- read_excel('sample_df.xlsx')
 
 #filter to groups that have degree values
 df_filtered <- sparrow_df[complete.cases(sparrow_df$degree),]
