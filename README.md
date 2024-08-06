@@ -21,3 +21,7 @@ Number of interactions - The interactions were recorded around a feeding tray fo
 
 #### Random factor: 
 Individual's ID nested within the group they are part of is a random factor in the model. 
+
+### Example graph:
+Mass Coef value. The dist' of permutations and the red line is the value of the non permutated model. 
+![Rplot02](https://github.com/user-attachments/assets/a0e5cf56-0eef-47d4-8726-ee8c2145bd44)
